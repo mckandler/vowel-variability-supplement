@@ -41,4 +41,4 @@ R code and supplementary figures for a cross-linguistic study of acoustic vowel 
 
 - [Global dispersion metrics with English /æ/](figures/global_variability_AE.png)
 - [Global dispersion metrics with English /ɑ/](figures/global_variability_AH.png)
-- [English vowel-space triangles](figures/english_triangles.png)
+- [Triangle area and paired English comparisons](figures/english_global_dispersion.png)
