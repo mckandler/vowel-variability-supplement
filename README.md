@@ -27,7 +27,7 @@ Alternatively, pass a path to the input CSV as the first argument. The input is 
 
 | Figure | Filename |
 |---|---|
-| Local metric comparison | `local_metric_dependence.png` |
+| Local metric comparison | `figures/local_metric_dependence.png` |
 | Global metric comparisons | `global_variability_AE.png`, `global_variability_AH.png` |
 | Triangle area and paired English comparisons | `english_global_dispersion.png` |
 | English vowel-space triangle overlay | `english_triangles.png` |
@@ -36,3 +36,9 @@ Alternatively, pass a path to the input CSV as the first argument. The input is 
 )
 # vowel-variability-supplement
 R code and supplementary figures for a cross-linguistic study of acoustic vowel variability.
+
+## Supplementary figures
+
+- [Global dispersion metrics with English /æ/](figures/global_variability_AE.png)
+- [Global dispersion metrics with English /ɑ/](figures/global_variability_AH.png)
+- [English vowel-space triangles](figures/english_triangles.png)
